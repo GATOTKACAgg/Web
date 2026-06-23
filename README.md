@@ -1,5 +1,14 @@
 **ORANGE3D**
 
-*a place where one can create animations*
+*a place where u can create animations*
 
-**how is this work ? 🕵️**
+**<                                    >**
+- *keyframe -use "Auto key" or add manual*
+- *you can get the object in the object button **+***
+
+
+
+
+
+               **BETA**
+
