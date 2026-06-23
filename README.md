@@ -6,9 +6,8 @@
 - *keyframe -use "Auto key" or add manual*
 - *you can get the object in the object button **+***
 
+  
 
 
-
-
-               **BETA**
+******BETA******
 
